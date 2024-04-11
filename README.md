@@ -1,0 +1,1 @@
+This script allows you to take the generic trello JSON export for a given board and prepare cleaner exports in both JSON and CSV formats. The original use case for this was moving items from trello into another ticket management system.
